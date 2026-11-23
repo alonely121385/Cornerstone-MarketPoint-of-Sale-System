@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "products": [
+    {
+      "barcode": "6900000000011",
+      "name": "Spring Water 500 ml",
+      "unit_price": "2.00",
+      "quantity": 60
+    },
+    {
+      "barcode": "6900000000028",
+      "name": "Whole Milk 1 L",
+      "unit_price": "12.80",
+      "quantity": 24
+    },
+    {
+      "barcode": "6900000000035",
+      "name": "Wheat Bread",
+      "unit_price": "8.50",
+      "quantity": 18
+    },
+    {
+      "barcode": "6900000000042",
+      "name": "Green Tea 500 ml",
+      "unit_price": "5.00",
+      "quantity": 36
+    },
+    {
+      "barcode": "6900000000059",
+      "name": "Orange Juice 1 L",
+      "unit_price": "15.90",
+      "quantity": 16
+    },
+    {
+      "barcode": "6900000000066",
+      "name": "Paper Towels",
+      "unit_price": "18.00",
+      "quantity": 12
+    }
+  ],
+  "transactions": []
+}
